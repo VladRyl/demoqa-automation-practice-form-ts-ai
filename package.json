@@ -1,0 +1,26 @@
+{
+  "name": "demoqa-automation-practice-form-ts-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladRyl/demoqa-automation-practice-form-ts-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VladRyl/demoqa-automation-practice-form-ts-ai/issues"
+  },
+  "homepage": "https://github.com/VladRyl/demoqa-automation-practice-form-ts-ai#readme",
+  "devDependencies": {
+    "@midscene/web": "^1.16.0",
+    "@playwright/test": "^1.64.1",
+    "dotenv": "^18.0.8"
+  }
+}
